@@ -1,5 +1,5 @@
 # source-insight-vim
-It's a source insight like vim.
+It's a source-insight-like vim.
 
 Screen capture:
 
