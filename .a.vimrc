@@ -172,7 +172,7 @@ hi TabLineSel   ctermfg=White  ctermbg=DarkBlue  cterm=NONE
 
 """""""""" airline
 let g:airline#extensions#tabline#enabled = 1
-
+let g:airline_powerline_fonts = 1
 
 
 
