@@ -7,6 +7,10 @@ Screen capture:
 
 ##Hotkeys
 
+####Keyboard Layout
+
+![keyboard](https://github.com/geekan/source-insight-vim/blob/master/keyboard.png?raw=true)
+
 ####Windows:
 
     :noremap <F1> <c-w><c-p>
