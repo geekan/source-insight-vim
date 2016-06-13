@@ -21,7 +21,7 @@ Screen capture:
 ####Buffers:
 
     :noremap <F6> :bp<cr>
-    :noremap <F7> :bn<cr
+    :noremap <F7> :bn<cr>
     nnoremap <S-F6> :bd#<CR>
 
 ####Others: 
